@@ -1,4 +1,4 @@
-# 🇬🇧🇭🇺 llm_en2hu
+# 🇬🇧🇭🇺 EnglishToHungarianLLM
 
 Using an LLM to translate from English to Hungarian.
 
