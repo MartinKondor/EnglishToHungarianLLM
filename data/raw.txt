@@ -70,11 +70,20 @@ To be sure, the apothecary's shop in Bramblehurst did not have so many bottles: 
 
 
 ```
-Bizonyára mindenki emlékszik még rá, milyen borzalmas északkeleti szélvész tört ki abban az esztendőben, napéjegyenlőség idején, olyan hirtelen, hogy a légsúlymérő higanyoszlopa egyszeriben 710 milliméterre zuhant alá. Ez az orkán egyhuzamban tombolt március 18-tól 26-ig. Mérhetetlen rombolást végzett Amerikában, Európában és Ázsiában egyaránt, az északi szélesség 35. fokától egészen a déli szélesség 40. fokáig, az Egyenlítőre rézsútosan, mintegy 1800 mérföldnyi2 sávon! Városokat döntött porba, erdőket csavart ki tövestül; a szökőár módjára száguldó hullámhegyek - mint a hírügynökségek jelentéseiből köztudomású - százszámra vetették partra a hajókat; az ítéletidő, amerre csak elvonult, egész országrészeket tett a föld színével egyenlővé, mindenütt ezrével pusztultak az emberek a szárazföldön, vagy fulladtak bele a tengerbe - dühöngésének ilyen tanújeleit hagyta maga után ez az iszonyatos égiháború. Egymagában több szerencsétlenséget okozott, mint azok a hírhedt szélviharok, amelyek közül az egyik Havannát dúlta föl 1810. október 25-én, a másik pedig Guadeloupe-ot tette tönkre 1825. július 26-án.
+Bizonyára mindenki emlékszik még rá, milyen borzalmas északkeleti szélvész tört ki abban az esztendőben, napéjegyenlőség idején, olyan hirtelen, hogy a légsúlymérő higanyoszlopa egyszeriben 710 milliméterre zuhant alá.
 ```
 
 ```
-You will all remember the terrible northeasterly winds that year, at the equinox, so sudden that the mercury on the barometer suddenly plummeted to 710 millimetres below zero. This hurricane raged in a row from 18 to 26 March. It wreaked untold havoc across the Americas, Europe and Asia, from 35 degrees north latitude to 40 degrees south latitude, in a straight line to the equator, some 1,800 miles2! Cities were reduced to dust, forests were uprooted; tidal crests, as news agencies report, washed ashore hundreds of ships; the doomsday, wherever it passed, laid waste whole regions of the earth, and everywhere thousands of people perished on land or drowned at sea - such were the marks of its fury left by this terrible sky war. It alone caused more misfortune than the notorious windstorms that devastated Havana on 25 October 1810 and Guadeloupe on 26 July 1825.
+You will all remember the terrible northeasterly winds that year, at the equinox, so sudden that the mercury on the barometer suddenly plummeted to 710 millimetres below zero.
+```
+
+
+```
+Ez az orkán egyhuzamban tombolt március 18-tól 26-ig. Mérhetetlen rombolást végzett Amerikában, Európában és Ázsiában egyaránt, az északi szélesség 35. fokától egészen a déli szélesség 40. fokáig, az Egyenlítőre rézsútosan, mintegy 1800 mérföldnyi2 sávon! Városokat döntött porba, erdőket csavart ki tövestül; a szökőár módjára száguldó hullámhegyek - mint a hírügynökségek jelentéseiből köztudomású - százszámra vetették partra a hajókat; az ítéletidő, amerre csak elvonult, egész országrészeket tett a föld színével egyenlővé, mindenütt ezrével pusztultak az emberek a szárazföldön, vagy fulladtak bele a tengerbe - dühöngésének ilyen tanújeleit hagyta maga után ez az iszonyatos égiháború. Egymagában több szerencsétlenséget okozott, mint azok a hírhedt szélviharok, amelyek közül az egyik Havannát dúlta föl 1810. október 25-én, a másik pedig Guadeloupe-ot tette tönkre 1825. július 26-án.
+```
+
+```
+This hurricane raged in a row from 18 to 26 March. It wreaked untold havoc across the Americas, Europe and Asia, from 35 degrees north latitude to 40 degrees south latitude, in a straight line to the equator, some 1,800 miles2! Cities were reduced to dust, forests were uprooted; tidal crests, as news agencies report, washed ashore hundreds of ships; the doomsday, wherever it passed, laid waste whole regions of the earth, and everywhere thousands of people perished on land or drowned at sea - such were the marks of its fury left by this terrible sky war. It alone caused more misfortune than the notorious windstorms that devastated Havana on 25 October 1810 and Guadeloupe on 26 July 1825.
 ```
 
 
@@ -115,10 +124,74 @@ Mi történt? - riadt föl, és a tengerjáró emberek különös ébe
 
 
 ```
-Sebaj! - legyintett a tengerész. - Hatalmas élelmiszerkészlet vár ránk a Kéményben; mert jobb is, ha mindjárt megtudja, Cyrus úr, hogy odalenn, délen csinos házunk van ám, kényelmes szobákkal, ágyakkal és tűzhellyel, az éléskamrában pedig néhány tucat madárral, amelyiket a mi Harbert barátunk kurukunak becéz! A hordágy egyébként készen áll, és mihelyt ön eléggé erősnek érzi magát, elszállítjuk a hajlékunkba.
+Sebaj! - legyintett a tengerész. - Hatalmas élelmiszerkészlet vár ránk a Kéményben; mert jobb is, ha mindjárt megtudja, Cyrus úr, hogy odalenn, délen csinos házunk van ám, kényelmes szobákkal, ágyakkal és tűzhellyel, az éléskamrában pedig néhány tucat madárral, amelyiket a mi Harbert barátunk kurukunak becéz!
 ```
 
 ```
-'Never mind,' said the sailor, softly, 'we have a large store of provisions waiting for us in the Chimney; for you had better know, Mr. Cyrus, that we have a pretty house down south, with comfortable rooms, beds, and a fireplace, and in the pantry a few dozen birds, which our friend Harbert calls kuruku! By the way, the stretcher is ready, and as soon as you are strong enough, we will transport you to our dwelling.
+'Never mind,' said the sailor, softly, 'we have a large store of provisions waiting for us in the Chimney; for you had better know, Mr. Cyrus, that we have a pretty house down south, with comfortable rooms, beds, and a fireplace, and in the pantry a few dozen birds, which our friend Harbert calls kuruku!
+```
+
+
+```
+Az vagy, - hagyta helyben a hang.
+```
+
+```
+'You are,' the voice said.
+```
+
+
+```
+A hordágy egyébként készen áll, és mihelyt ön eléggé erősnek érzi magát, elszállítjuk a hajlékunkba.
+```
+
+```
+By the way, the stretcher is ready, and as soon as you are strong enough, we will transport you to our dwelling.
+```
+
+
+```
+Mert ennek a levegőben szálló, járó pénznek a története igaz volt. Az egész környéken tudtak róla és sokan voltak, akik látták is: az országut menti majorokból, csárdákból, házakból, - amint a „marék pénz” szép lassan sétált a levegőben: sovereignek, shillingek, koronák és pennyk; amelyek hirtelen eltüntek, ha valaki utánuk eredt. S aki jól utána nézett, azt is látta, hogy a pénz mindig annak a tömzsi, rongyos, fáradt csavargónak a zsebében tünt el, aki ott üldögélt a port-stowei csapszék előtt ama bizonyos matrózzal.
+```
+
+```
+Because the story of this walking money in the air was true. It was known all over the neighbourhood, and many people saw it: from the country lanes, from the inns, from the houses, - as the 'handful of money' walked slowly through the air: sovereigns, shillings, crowns and pennies; which suddenly disappeared if anyone followed them. And he who looked hard enough saw that the money always disappeared in the pocket of the stout, ragged, tired tramp who sat in front of the Port Stowe bar with that particular sailor.
+```
+
+
+```
+Később ismét hallott valami furcsa, nagyon furcsa dolgot, ami nem messze történt attól a csapszéktől. Ez pedig az volt, hogy „egy marék pénz” szabadon járkált, röpdösött a levegő- ben, mintha szárnya lett volna... Egy matróz-pajtása látta ezt a csodálatos dolgot ugyanaz nap reggel. Utána is szaladt a pénznek, de hasra vágódott, mielőtt elérte volna, mert megbotlott valami láthatatlan akadályban s mire föltápászkodott, a pénz már eltünt... A mi matrózunk ugyan nem nagyon babonás és hiszékeny ember volt, de ez már neki is sok volt. Később azonban ő is másként gondolkozott.
+```
+
+```
+Later on, he heard something strange, very strange, again, not far from that trap. And it was that "a handful of money" was walking freely, fluttering in the air as if it had wings... A sailor friend of his saw this amazing thing the same morning. He ran after the money, but he fell on his stomach before he reached it, because he tripped over some invisible obstacle, and by the time he got up the money was gone... Our sailor was not a very superstitious and gullible man, but that was too much for him. Later, however, he also thought differently.
+```
+
+
+```
+
+Tiz nappal később, - amikor már szájról-szájra jártak a burdocki eset részletei is, - ugyanez a matróz összevetette a maga tapasztalatait ezekkel a részletekkel s akkor meggyőződött, hogy az a csodálatos, láthatatlan ember ugyancsak közel járt hozzá Port-Stoweben azon a juniusi reggelen.
+```
+
+```
+Ten days later, when the details of the Burdock incident had been passed around, the same sailor compared his own experience with those details and became convinced that the wonderful, invisible man had also been close to him in Port-Stowe that June morning.
+```
+
+
+```
+Rohanó lépések zaja közeledett a dombról lefelé... majd hirtelen megjelent Albert, aki inkább gurult, mint szaladt a lejtőn lefelé: mint a bomba, hullott be a korcsma ajtaján, - haja csapzott a veritéktől, kalapja nem volt, a ruhája össze-vissza tépve; - az ajtóban elbukott, hirtelen fölugrott, roppant erőfeszitéssel be akarta csukni az ajtót: de nem birta, mert kötéllel ki volt kötve.
+```
+
+```
+The sound of rushing footsteps approached down the hill... and suddenly Albert appeared, rolling rather than running down the slope: he fell like a bomb through the door of the mutt, - his hair was matted with beating, his hat was off, his clothes were torn to shreds; - he fell in the doorway, suddenly jumped up, tried with a tremendous effort to close the door: but he couldn't, for he was tied with rope.
+```
+
+
+```
+Merre mehetett? - kiáltott föl a fekete szakállas férfi.
+```
+
+```
+'Where could he have gone?' shouted the black-bearded man.
 ```
 
